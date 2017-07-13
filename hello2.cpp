@@ -1,7 +1,7 @@
 #include<stdio.h>
 using namespace std;
+
 void main()
 {
- cout<<"hello world one";
+cout<<"hello two";
 }
-
